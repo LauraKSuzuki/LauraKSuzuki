@@ -39,19 +39,25 @@ Estou cursando o 4º semestre de Engenharia da Computação na PUC-Campinas. Rea
 - **POO com Java**
 - **Engenharia de Prompts com IA**
 
-<!--
-## Projetos
+---
 
-Quando tiver projetos para mostrar, apague estas linhas de comentário e use este modelo:
+## Projetos Acadêmicos
 
-### [Nome do projeto](link-do-repositorio)
-`Tecnologia 1` `Tecnologia 2`
+### [Gerenciador de Solicitações de Manutenção](https://github.com/JoaoBreganon/Gerenciador-estrutura-de-dados)
+`C` `Estruturas de Dados`
 
-Uma frase explicando o que o projeto faz.
+Sistema de cadastro e priorização de solicitações de manutenção de equipamentos, usando listas simplesmente encadeadas dinâmicas.
 
-- O que você fez ou aprendeu
-- Algum resultado concreto (feito em equipe, publicado, testado etc.)
--->
+- Projeto acadêmico desenvolvido em grupo
+- Relatório ordenado por prioridade, prazo e código, com validação de todas as entradas
+
+### [Recicla+](https://github.com/guimais/recicla-mais)
+`HTML` `CSS` `JavaScript` `Java`
+
+Jogo web educativo de separação de resíduos, com as seis categorias da coleta seletiva brasileira e explicações a cada erro.
+
+- Projeto acadêmico desenvolvido em grupo
+- Ranking de pontuações em Java e interface com recursos de acessibilidade
 
 ---
 
